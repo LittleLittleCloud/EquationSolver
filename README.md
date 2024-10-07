@@ -2,6 +2,9 @@
 
 This project is an AI-powered equation solver that uses image recognition to extract mathematical equations and solve them. It leverages AutoGen, OpenAI's GPT-4 model, and the StepWise framework to create a workflow for processing and solving equations from images.
 
+![image](https://github.com/user-attachments/assets/82dfbf20-f3d5-4aa5-8de8-d80f9d6ba940)
+
+
 ## Features
 
 - Image input for equations
